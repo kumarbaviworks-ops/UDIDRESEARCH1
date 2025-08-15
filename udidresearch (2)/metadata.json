@@ -1,0 +1,5 @@
+{
+  "name": "UDIDRESEARCH",
+  "description": "An intelligent research assistant that leverages Google Search grounding through the Gemini API to provide up-to-date and cited answers to user questions.",
+  "requestFramePermissions": []
+}
